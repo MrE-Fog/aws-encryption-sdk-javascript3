@@ -132,6 +132,7 @@
     "null-loader": "^4.0.1",
     "nyc": "^15.1.0",
     "prettier": "^3.0.1",
+    "prettier": "^2.0.4",
     "rimraf": "^5.0.1",
     "source-map-support": "^0.5.19",
     "tslib": "^2.3.0",
